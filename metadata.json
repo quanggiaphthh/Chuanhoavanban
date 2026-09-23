@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chuẩn Hóa Văn Bản Hành Chính",
+  "description": "Hỗ trợ soạn thảo và chuẩn hóa định dạng văn bản hành chính theo đúng Nghị định 30/2020/NĐ-CP của Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
